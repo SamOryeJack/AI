@@ -1,0 +1,31 @@
+# Ignore DS_Store files
+.DS_Store
+
+# Ignore Python virtual environment directories
+/OpenAI/bin/
+/OpenAI/lib/
+/OpenAI/include/
+/OpenAI/lib64/
+/OpenAI/share/
+/OpenAI/pyvenv.cfg
+
+# Ignore node_modules
+/OpenAI/node_modules/
+
+# Ignore Python cache files
+/OpenAI/__pycache__/
+/OpenAI/OpenAI/__pycache__/
+
+# Ignore environment files
+/OpenAI/.env
+
+# Ignore package management files
+/OpenAI/package-lock.json
+/OpenAI/package.json
+
+# Ignore notes
+/OpenAI/notes.txt
+
+# Ignore ML and models directories
+../../ML/
+../../models/
